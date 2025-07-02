@@ -92,7 +92,7 @@ export default function App() {
           marginRight: 14,
           filter: "drop-shadow(0 3px 12px #9d87f9)"
         }}>💠</span>
-        ПРИВЕТ МАМЕ"
+        MILION
       </div>
 
       {/* Tabs */}
